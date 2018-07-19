@@ -1,0 +1,50 @@
+body {
+  background: linear-gradient(to right, #e67e22, #e74c3c);
+}
+
+.ProjectItems {
+  color: white;
+}
+
+.row {
+  margin-top: 5%;
+}
+
+form input[type="text"] {
+  margin-bottom: 30px;
+  color: white;
+}
+
+table tfoot tr th {
+  color: white;
+}
+
+form input[type="submit"] {
+  width: 40%;
+  display: block;
+  margin: auto;
+  background-color: black;
+  color: grey;
+}
+
+h3 {
+  text-align: center;
+}
+
+.badge {
+  cursor: pointer;
+}
+
+input[type="text"] {
+  background-color: transparent;
+  border: 0;
+  border-bottom: solid 1px #f16051;
+  width: 100%;
+  padding-bottom: 4px;
+  color: #fff !important;
+  font-weight: lighter;
+  letter-spacing: 2px;
+  margin-bottom: 30px;
+  margin-right: 20px;
+  font-size: 20px;
+}
